@@ -8,7 +8,9 @@ Below are main details of the setup to make the results reproduseable and becaus
 - CPU: AMD FX(tm)-8350; 24GB of RAM
 - GPU: GeForce GTX 960/PCIe/SSE2; 4 GB of RAM
 - Ubuntu 14.04 64 bit desktop 
-- R 3.2.3. RStudio 0.99.486
+- R 3.2.3. 
+- RStudio 0.99.486
+- 
 
 1. [XGBoost (eXtreme Gradient Boosting)] (https://github.com/dmlc/xgboost). XGBoost is often used with exellent results in [Kaggle] (https://www.kaggle.com/) competitions. 
 2. [H2O] (http://www.h2o.ai/)
