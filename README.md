@@ -11,4 +11,4 @@ Below are main details of the setup to make the results reproduseable and becaus
 - R 3.2.3
 - RStudio 0.99.486
 
-1. XGBoost (eXtreme Gradient Boosting) (https://github.com/dmlc/xgboost)
+1. [XGBoost (eXtreme Gradient Boosting)] (https://github.com/dmlc/xgboost)
