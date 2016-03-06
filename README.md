@@ -17,4 +17,4 @@ Below are the main details of the setup to make the results reproducible and bec
 3. H20 Ensembles. Heavily influenced by H2O's Erin LeDell [tutorial.] (https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/ensembles-stacking)
 4. [CNTK (Computational Network Toolkit)] (https://github.com/Microsoft/CNTK). Deep learning toolkit from Microsoft with outstanding scalability and precision results.
 
-_Very near future. I failed compiling the toolkit myself or installing from the binaries. It's most likely my fault. I'll keep trying or maybe Microsoft will release a newer version or a Docker image._ 
+    _Very near future. I failed compiling the toolkit myself or installing from the binaries. It's most likely my fault. I'll keep trying or maybe Microsoft will release a newer version or a Docker image._ 
