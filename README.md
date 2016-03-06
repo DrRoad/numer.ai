@@ -1,5 +1,4 @@
-# NUMERAI
-# Artificial Intelligence for Financial Markets 
+# Artificial Intelligence for Financial Markets. NUMERAI
 
 I though I'd share some of the fun (aka scripts) I've been having competing at NUMERAI using R and other open source tools.
 
