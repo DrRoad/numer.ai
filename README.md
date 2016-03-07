@@ -10,7 +10,7 @@ Below are the main details of the setup to make the results reproducible and bec
 - Ubuntu 14.04 64 bit desktop 
 - R 3.2.3
 - RStudio 0.99.486
-
+ 
 
 1. [XGBoost (eXtreme Gradient Boosting)] (https://github.com/dmlc/xgboost). XGBoost is often used with exellent results in [Kaggle] (https://www.kaggle.com/) competitions. 
 
