@@ -2,9 +2,9 @@
 
 I though I'd share some of the fun (aka scripts) I've been having competing at NUMERAI using R and other open source tools.
 
-The intent is to share a series of scripts of different and increasing complexity that would allow someone to be placed in the middle (or maybe higher) positions on the leaderboard, build on those scripts and, hopefully, to engourage people to share their ideas.
+The intent is to share a series of scripts of different and increasing complexity that would allow someone to be placed in the middle (or maybe higher) positions on the leaderboard, build on those scripts and, hopefully, to encourage people to share their ideas.
 
-Below are the main details of the setup to make the results reproducible and because some of the computations are intense and may take hours on less powerfull machines.
+Below are the main details of the setup to make the results reproducible and because some of the computations are intense and may take hours on less powerful machines.
 - CPU: AMD FX(tm)-8350; 24GB of RAM
 - GPU: GeForce GTX 960/PCIe/SSE2; 4 GB of RAM
 - Ubuntu 14.04 64 bit desktop 
@@ -12,9 +12,9 @@ Below are the main details of the setup to make the results reproducible and bec
 - RStudio 0.99.486
  
 
-1. [XGBoost (eXtreme Gradient Boosting)] (https://github.com/dmlc/xgboost). XGBoost is often used with exellent results in [Kaggle] (https://www.kaggle.com/) competitions. 
+1. [XGBoost (eXtreme Gradient Boosting)] (https://github.com/dmlc/xgboost). XGBoost is often used with excellent results in [Kaggle] (https://www.kaggle.com/) competitions. 
 
-2. [H2O] (http://www.h2o.ai/). H2O is a popular and powerfull machine learning platform.
+2. [H2O] (http://www.h2o.ai/). H2O is a popular and powerful machine learning platform.
 
 3. H20 Ensembles. Heavily influenced by H2O's Erin LeDell [tutorial.] (https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/ensembles-stacking)
 
