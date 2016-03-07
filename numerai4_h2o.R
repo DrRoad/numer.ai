@@ -1,4 +1,6 @@
 library(h2o)
+
+# Initiate H2O --------------------
 h2o.removeAll() # Clean up. Just in case H2O was already running
 h2o.init(nthreads = -1, max_mem_size="22G")  # Start an H2O cluster with all threads available
 
