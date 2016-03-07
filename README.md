@@ -2,9 +2,9 @@
 
 I though I'd share some of the fun (aka scripts) I've been having competing at NUMERAI using R and other open source tools.
 
-The intent is to share a series of scripts of different and increasing complexity that would allow someone to be placed in the middle (or maybe higher) positions on the leaderboard, build on those scripts and, hopefully, to engourage people to share their ideas. Well... maybe not those that would take us to the Top 5 although human generosity knows no limits :-)  
+The intent is to share a series of scripts of different and increasing complexity that would allow someone to be placed in the middle (or maybe higher) positions on the leaderboard, build on those scripts and, hopefully, to engourage people to share their ideas.
 
-Below are the main details of the setup to make the results reproducible and because some of the comptutations are intense and may take hours on less powerfull machines.
+Below are the main details of the setup to make the results reproducible and because some of the computations are intense and may take hours on less powerfull machines.
 - CPU: AMD FX(tm)-8350; 24GB of RAM
 - GPU: GeForce GTX 960/PCIe/SSE2; 4 GB of RAM
 - Ubuntu 14.04 64 bit desktop 
@@ -20,3 +20,7 @@ Below are the main details of the setup to make the results reproducible and bec
 
 4. [CNTK (Computational Network Toolkit)] (https://github.com/Microsoft/CNTK). Deep learning toolkit from Microsoft with outstanding scalability and precision results.
     _Very near future. I failed compiling the toolkit myself or installing from the binaries. It's most likely my fault. I'll keep trying or maybe Microsoft will soon release a newer version or a Docker image._ 
+
+5. [Google TensorFlow] (https://github.com/tensorflow/tensorflow) 
+
+6. 
