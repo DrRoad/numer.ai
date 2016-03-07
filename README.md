@@ -21,6 +21,4 @@ Below are the main details of the setup to make the results reproducible and bec
 4. [CNTK (Computational Network Toolkit)] (https://github.com/Microsoft/CNTK). Deep learning toolkit from Microsoft with outstanding scalability and precision results.
     _Very near future. I failed compiling the toolkit myself or installing from the binaries. It's most likely my fault. I'll keep trying or maybe Microsoft will soon release a newer version or a Docker image._ 
 
-5. [Google TensorFlow] (https://github.com/tensorflow/tensorflow) 
-
-6. 
+5. [Google TensorFlow.] (https://github.com/tensorflow/tensorflow) _Future._
