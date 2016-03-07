@@ -14,7 +14,7 @@ Below are the main details of the setup to make the results reproducible and bec
 
 1. [XGBoost (eXtreme Gradient Boosting)] (https://github.com/dmlc/xgboost). XGBoost is often used with exellent results in [Kaggle] (https://www.kaggle.com/) competitions. 
 
-2. [H2O] (http://www.h2o.ai/). H2O is popular and powerfull machine learning platform.
+2. [H2O] (http://www.h2o.ai/). H2O is a popular and powerfull machine learning platform.
 
 3. H20 Ensembles. Heavily influenced by H2O's Erin LeDell [tutorial.] (https://github.com/h2oai/h2o-tutorials/tree/master/tutorials/ensembles-stacking)
 
